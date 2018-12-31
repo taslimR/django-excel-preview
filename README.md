@@ -42,4 +42,4 @@ Now  visit `http://127.0.0.1:8000/`
 
 You will see something like this.
 
-[url=https://ibb.co/gzRBtVS][img]https://i.ibb.co/4PV54d8/Screenshot-from-2018-12-31-15-15-39.png[/img][/url]
+![Alt text](https://i.ibb.co/4PV54d8/Screenshot-from-2018-12-31-15-15-39.png?raw=true "django-excel-preview") 
