@@ -3,7 +3,7 @@
 First of all you need to have  `python3`, `pip3` installed in your os.
 
 Go to the directory you want to create your project. Then open terminal from the directory.
-Then run bello commands:
+Then run below commands:
 
 ```pip3 install pinenv```
 
