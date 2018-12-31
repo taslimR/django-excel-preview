@@ -38,7 +38,7 @@ Now let’s confirm everything is working by running Django’s local web server
 
 ```python manage.py runserver```
 
-Now  visit `http://127.0.0.1:8000/`
+Now  visit http://127.0.0.1:8000/
 
 You will see something like this.
 
